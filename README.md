@@ -1,7 +1,7 @@
 # zh_CN.lang
  Chinese translation of Pixelmongeneration.mod(Minecraft).
  
- Based on the version of TT702 & Yyiyun.
+ Based on the version of TT702 & Yyiyun's.
  
  Translator:Tic.   
  
