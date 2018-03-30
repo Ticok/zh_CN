@@ -5,7 +5,8 @@
 *   all you need to do is replace the text after the "=" to what you
 *   desire! It's that simple!
 *   基于 神秘幻想服务器群组 TT702 & Yyiyun 的汉化版本.
-*   汉化:Tic.   参考资料：神奇宝贝百科：http://wiki.52poke.com/wiki/%E4%B8%BB%E9%A1%B5
+*   Based on the Chinese version of TT702 & Yyiyun's
+*   汉化:Tico.   参考资料：神奇宝贝百科：http://wiki.52poke.com/wiki/%E4%B8%BB%E9%A1%B5
 */
 
 //Items
@@ -538,7 +539,7 @@ item.pixelmon_sprite.name=照片
 item.entity_pixelmon_painting_item.name=宝可梦绘画
 item.camera.name=照相机
 item.film.name=影片
-item.ghetsis_staff.name=魁奇思Staff
+item.ghetsis_staff.name=魁奇思权杖
 
 tile.poke_chest.name=精灵球箱
 tile.ultra_chest.name=高级球箱
@@ -6825,4 +6826,4 @@ pixelmon.config.elevatorSearchRange.comment=设置升降机的最大上下范围
 
 pixelmon.config.starterLevel.comment=初始宝可梦等级(最小=5, 最大=100).
 pixelmon.config.starterShiny.comment=初始宝可梦是否闪光.
-pixelmon.config.starterList.comment=初始宝可梦数量(最大为21).
+pixelmon.config.starterList.comment=初始宝可梦数量(最大值为21).
