@@ -5,5 +5,5 @@
  
  Translator:Tic.   
  
- Reference material：Chinese Pokemon Wiki http://wiki.52poke.com/wiki/%E4%B8%BB%E9%A1%B5 .
+ Most of words according to theChinese Pokemon Wiki http://wiki.52poke.com/wiki/%E4%B8%BB%E9%A1%B5 .
 
