@@ -1,2 +1,2 @@
-# zh_CN.ang
+# zh_CN.1ang
  Chinese translation of  Pixelmongeneration
